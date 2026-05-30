@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NC2000 Emulator</string>
+    <string name="permission_title">文件访问权限</string>
+    <string name="permission_description">该应用需要访问SD卡以加载文曲星ROM文件。\n\nROM文件应放在 /sdcard/wqx/ 目录下。\n\n请点击下方按钮授予文件访问权限。</string>
+    <string name="authorize_button">授权文件访问</string>
+    <string name="permission_icon">Permission Icon</string>
+</resources>
